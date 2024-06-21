@@ -1,1 +1,1 @@
-Faltan Arreglos en la parte de Arrays
+Juego Completo Alura Latam
